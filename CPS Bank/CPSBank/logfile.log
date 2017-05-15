@@ -1,0 +1,683 @@
+2017-05-02 23:06:30,899 INFO  [VerifyTransfer] browser launched 
+2017-05-02 23:06:50,751 INFO  [VerifyTransfer] customer login page open 
+2017-05-02 23:06:52,310 INFO  [VerifyTransfer] browser maximized 
+2017-05-02 23:06:58,837 INFO  [VerifyTransfer] login into transferpage 
+2017-05-02 23:10:31,330 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-02 23:10:58,998 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-02 23:11:00,464 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-02 23:11:05,929 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-02 23:13:34,320 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-02 23:13:49,577 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-02 23:13:51,251 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-02 23:13:55,802 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-02 23:14:34,724 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-02 23:15:07,387 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-02 23:15:08,743 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-02 23:15:13,431 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 00:18:01,003 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 00:18:11,842 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 00:18:13,126 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 00:18:16,250 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 00:18:19,126 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 00:56:23,264 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 00:56:34,298 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 00:56:35,671 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 00:56:38,518 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 00:56:41,654 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 10:36:19,421 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 10:36:30,014 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 10:36:31,369 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 10:36:34,662 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 10:36:37,563 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 10:42:05,434 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 10:42:13,601 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 10:42:14,922 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 10:42:18,119 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 10:42:20,562 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:12:54,195 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:13:09,134 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:13:10,474 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:13:13,952 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:14:22,756 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:14:22,971 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:14:32,599 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:14:45,109 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:14:46,602 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:14:53,987 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:15:00,129 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:15:45,631 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:16:07,240 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:16:08,570 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:16:13,914 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:16:20,967 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:18:01,439 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:19:32,765 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:19:45,342 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:20:23,633 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:20:46,958 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:20:51,004 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:20:52,446 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:20:55,385 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:20:58,589 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:22:12,537 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:22:16,292 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:22:17,877 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:22:20,780 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:22:24,160 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:23:06,242 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:23:12,054 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:23:13,456 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:23:16,340 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:23:22,172 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:25:43,721 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:25:49,730 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:25:51,052 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:25:59,273 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:26:07,234 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:26:58,709 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:27:39,733 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:27:51,936 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:27:58,921 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:28:00,280 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:28:03,173 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:28:13,937 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:28:39,902 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:28:51,967 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:28:53,290 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:29:21,489 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:29:33,063 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:29:52,599 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:30:07,098 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:31:39,131 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:31:46,956 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:31:48,427 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:31:51,093 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:32:02,747 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:32:16,935 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:32:22,682 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:32:24,148 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:32:26,896 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:32:38,375 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:33:40,992 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:33:45,712 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:33:47,150 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:33:49,859 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:33:59,213 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:35:40,374 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:35:45,922 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:35:47,314 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:35:50,161 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:35:58,458 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:36:48,013 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:36:53,809 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:36:55,093 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:37:00,385 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:37:10,109 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:38:09,678 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:38:14,862 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:38:16,350 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:38:19,263 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:38:29,233 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:43:31,991 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:43:37,204 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:43:38,569 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:43:41,077 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:43:51,078 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:44:20,439 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:44:24,854 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:44:26,414 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:44:28,980 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:44:49,625 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:46:14,449 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:46:20,888 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:46:22,180 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:46:24,290 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:46:43,134 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:50:43,393 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:50:49,943 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:50:51,236 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:50:53,325 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:52:10,190 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:52:15,355 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:52:16,700 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:52:21,990 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:55:01,747 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:55:21,427 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:55:22,849 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:55:27,441 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 11:56:47,781 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-03 11:57:27,236 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-03 11:57:28,775 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-03 11:57:34,451 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-03 11:57:40,813 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-03 12:25:22,091 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 19:28:57,064 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:29:03,491 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:29:04,893 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:29:08,988 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:37:54,197 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:38:13,479 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:38:15,044 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:38:18,482 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:39:20,049 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:39:28,910 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:39:30,239 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:39:33,386 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:40:44,071 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:40:53,367 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:40:54,803 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:40:57,365 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:43:44,103 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:43:55,733 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:43:57,051 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:44:17,949 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:44:24,738 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:44:26,091 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:44:29,405 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:44:30,079 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 19:45:04,445 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:45:10,788 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:45:12,234 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:45:15,225 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:48:20,311 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:48:28,074 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:48:29,401 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:48:32,593 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:50:02,966 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:50:10,536 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:50:11,951 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:50:14,838 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:50:25,954 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 19:51:26,674 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 19:51:33,808 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 19:51:35,152 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 19:51:37,390 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 19:51:49,010 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:12:59,929 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:13:07,665 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:13:09,003 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:13:11,386 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:13:12,044 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:13:48,524 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:14:01,758 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:14:03,293 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:14:06,604 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:17:07,737 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:17:56,276 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:18:03,600 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:18:04,923 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:18:08,588 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:18:50,300 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:19:41,510 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:19:48,052 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:19:49,376 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:19:52,802 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:20:16,101 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:26:42,877 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:26:49,147 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:26:50,631 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:26:53,118 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:27:38,451 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:27:48,228 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:27:49,562 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:27:52,297 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:28:16,676 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:29:36,041 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:29:42,660 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:29:44,077 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:29:47,977 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:30:15,953 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:32:30,467 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:32:38,026 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:32:39,367 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:32:42,709 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:33:11,723 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:36:42,244 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:36:48,543 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:36:49,859 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:36:53,194 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:37:31,960 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:37:53,119 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:38:01,330 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:38:02,692 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:38:05,970 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:38:37,879 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:39:59,459 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:40:08,513 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:40:09,890 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:40:12,739 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:41:05,217 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:55:39,958 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:55:48,851 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:55:50,306 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:55:53,294 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:56:36,599 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:57:27,002 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:57:34,448 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:57:35,734 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:57:37,743 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:58:02,569 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 20:58:44,673 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 20:58:51,347 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 20:58:52,681 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 20:58:55,499 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 20:59:36,322 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 21:03:31,454 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 21:03:57,776 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 21:03:59,247 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 21:04:01,882 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-05 21:04:13,376 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-05 21:39:10,921 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-05 21:39:49,108 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-05 21:39:50,495 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-05 21:40:04,409 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 01:10:53,281 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 01:11:02,118 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 01:11:03,477 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 01:11:07,523 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 01:11:57,478 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 01:14:31,089 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 01:14:42,067 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 01:14:43,583 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 01:14:47,371 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 01:15:37,891 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 01:20:18,838 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 01:20:25,313 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 01:20:26,694 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 01:20:30,446 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 01:21:14,779 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 01:22:06,109 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 01:22:14,595 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 01:22:15,959 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 01:22:19,027 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 01:23:04,392 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 01:23:21,813 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 01:23:23,283 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 01:23:25,731 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 01:24:05,397 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 01:24:13,365 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 01:24:14,658 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 01:24:17,532 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 01:25:40,268 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 15:43:42,536 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 15:43:55,925 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 15:43:57,785 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 15:44:04,385 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 15:44:05,670 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 15:45:40,414 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 15:45:49,748 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 15:45:51,082 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 15:45:54,207 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 15:45:54,874 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 15:50:31,054 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 15:50:41,915 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 15:50:43,280 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 15:50:46,752 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 15:50:47,135 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 15:53:29,809 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 15:53:38,002 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 15:53:39,465 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 15:53:43,055 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 15:53:43,903 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 15:56:45,336 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 15:56:56,469 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 15:56:57,969 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 15:57:03,072 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 15:57:03,470 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 16:43:54,518 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 16:44:01,846 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 16:44:03,304 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 16:44:06,458 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 16:44:06,869 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 16:44:46,139 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 16:44:54,051 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 16:44:55,373 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 16:44:58,119 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 16:44:58,519 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 16:47:57,403 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 16:48:05,878 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 16:48:07,370 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 16:48:10,436 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 16:48:10,818 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 16:51:08,839 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 16:51:18,316 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 16:51:19,824 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 16:51:27,040 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 16:52:01,570 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 16:53:12,280 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 16:53:20,033 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 16:53:21,374 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 16:53:24,593 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 16:53:56,797 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 16:55:59,199 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 16:56:07,896 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 16:56:09,270 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 16:56:13,299 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 16:56:44,458 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 16:57:56,633 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 16:58:04,853 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 16:58:06,207 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 16:58:08,964 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 16:59:16,535 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 17:00:19,733 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 17:00:25,284 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 17:00:26,665 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 17:00:29,225 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 17:01:36,723 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 17:07:49,768 INFO  [VerifyTransfer] browser launched 
+2017-05-06 17:08:00,348 INFO  [VerifyTransfer] customer login page open 
+2017-05-06 17:08:01,792 INFO  [VerifyTransfer] browser maximized 
+2017-05-06 17:08:04,688 INFO  [VerifyTransfer] login into transferpage 
+2017-05-06 17:08:05,012 INFO  [VerifyTransfer] mouse over on transfer module 
+2017-05-06 17:08:52,891 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 17:09:00,264 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 17:09:01,607 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 17:09:04,640 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 17:09:05,193 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 17:10:22,122 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 17:10:38,306 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 17:10:39,630 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 17:10:42,623 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 17:10:43,095 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-06 17:13:43,054 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:14:04,847 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:14:07,931 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:15:22,005 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:15:34,561 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:15:37,640 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:19:57,191 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:20:10,070 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:20:13,567 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:21:05,713 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:21:21,836 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:21:24,579 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:31:17,516 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:31:28,625 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:31:31,926 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:32:42,425 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:32:58,529 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:33:02,028 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:34:33,578 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:34:44,410 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:34:47,725 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:36:27,213 INFO  [VerifyUrl] browser launched 
+2017-05-06 17:36:38,730 INFO  [VerifyUrl] cps home page open 
+2017-05-06 17:36:41,690 INFO  [VerifyUrl] account login page open 
+2017-05-06 17:38:24,438 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-06 17:38:43,332 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-06 17:38:44,641 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-06 17:38:48,942 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-06 17:39:22,318 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-07 11:52:15,539 INFO  [VerifyCustomerLogin] browser launched 
+2017-05-07 11:52:41,002 INFO  [VerifyCustomerLogin] customer login page open 
+2017-05-07 11:52:42,347 INFO  [VerifyCustomerLogin] browser maximized 
+2017-05-07 11:52:49,587 INFO  [VerifyCustomerLogin] transfer page opend 
+2017-05-07 11:54:04,433 INFO  [VerifyUrl] browser launched 
+2017-05-07 11:54:53,983 INFO  [VerifyUrl] customer login page open 
+2017-05-07 11:54:55,442 INFO  [VerifyUrl] browser maximized 
+2017-05-08 10:31:24,371 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 10:31:29,893 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 10:31:31,259 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 10:31:34,225 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 11:09:28,368 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 11:09:33,512 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 11:09:35,049 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 11:09:38,413 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 11:11:20,427 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 11:11:26,182 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 11:11:27,636 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 11:11:30,348 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 11:16:30,433 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 11:16:49,383 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 11:16:51,614 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 11:19:51,026 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 11:19:56,684 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 11:19:58,015 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 11:20:01,137 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 11:25:08,186 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 11:27:59,942 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 11:28:13,281 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 11:28:14,686 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 11:28:17,529 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 11:38:20,321 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 11:38:45,757 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 11:38:47,101 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 11:38:52,922 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 11:43:04,218 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 12:32:59,424 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 12:33:08,526 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 12:33:09,909 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 12:33:13,287 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 12:35:28,012 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 12:35:33,219 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 12:35:34,777 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 12:35:38,203 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 12:39:11,758 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 12:39:22,613 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 12:39:23,976 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 12:39:26,585 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 12:43:50,399 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 12:43:57,221 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 12:43:58,631 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 12:44:02,090 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 12:46:28,926 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 12:46:36,517 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 12:46:37,887 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 12:46:40,083 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 14:19:47,052 INFO  [VerifyCustomerLogin] browser launched 
+2017-05-08 14:19:51,631 INFO  [VerifyCustomerLogin] customer login page open 
+2017-05-08 14:19:53,149 INFO  [VerifyCustomerLogin] browser maximized 
+2017-05-08 14:19:56,803 INFO  [VerifyCustomerLogin] transfer page opend 
+2017-05-08 14:19:58,469 INFO  [VerifyCustomerLogin] browser closed 
+2017-05-08 14:22:19,710 INFO  [VerifyCustomerLogin] browser launched 
+2017-05-08 14:22:24,020 INFO  [VerifyCustomerLogin] customer login page open 
+2017-05-08 14:22:25,558 INFO  [VerifyCustomerLogin] browser maximized 
+2017-05-08 14:22:29,244 INFO  [VerifyCustomerLogin] transfer page opend 
+2017-05-08 14:22:30,962 INFO  [VerifyCustomerLogin] browser closed 
+2017-05-08 14:23:40,553 INFO  [VerifyCustomerLogin] browser launched 
+2017-05-08 14:23:49,224 INFO  [VerifyCustomerLogin] customer login page open 
+2017-05-08 14:23:50,818 INFO  [VerifyCustomerLogin] browser maximized 
+2017-05-08 14:23:54,002 INFO  [VerifyCustomerLogin] transfer page opend 
+2017-05-08 14:23:55,724 INFO  [VerifyCustomerLogin] browser closed 
+2017-05-08 14:26:37,609 INFO  [VerifyCustomerLogin] browser launched 
+2017-05-08 14:26:43,324 INFO  [VerifyCustomerLogin] customer login page open 
+2017-05-08 14:26:44,657 INFO  [VerifyCustomerLogin] browser maximized 
+2017-05-08 14:26:47,847 INFO  [VerifyCustomerLogin] transfer page opend 
+2017-05-08 14:26:49,624 INFO  [VerifyCustomerLogin] browser closed 
+2017-05-08 14:33:56,001 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 14:34:56,871 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 14:35:46,892 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 14:35:57,025 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 14:35:58,520 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 14:36:01,513 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 14:41:42,157 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 14:43:51,802 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 14:44:06,484 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 14:44:35,180 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 14:44:52,254 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 14:44:53,567 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 14:45:00,363 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 14:45:43,378 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 14:59:54,503 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:00:07,005 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:00:08,430 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:00:11,376 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:00:42,741 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:00:59,419 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:01:00,804 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:01:04,865 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:01:09,526 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:02:33,700 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:02:57,653 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:02:58,986 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:03:04,716 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:03:05,160 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:04:06,868 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:04:29,474 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:05:23,157 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:05:25,168 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:05:40,534 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:05:51,153 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:06:00,817 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:06:09,543 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:06:11,067 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:06:14,908 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:06:15,379 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:06:36,715 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:06:48,454 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:06:49,772 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:06:52,924 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:06:53,334 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:08:03,157 INFO  [VerifyTransfer] browser launched 
+2017-05-08 15:08:09,041 INFO  [VerifyTransfer] customer login page open 
+2017-05-08 15:08:10,526 INFO  [VerifyTransfer] browser maximized 
+2017-05-08 15:08:13,782 INFO  [VerifyTransfer] login into transferpage 
+2017-05-08 15:08:14,038 INFO  [VerifyTransfer] mouse over on transfer module 
+2017-05-08 15:09:24,701 INFO  [VerifyTransfer] browser launched 
+2017-05-08 15:09:32,041 INFO  [VerifyTransfer] customer login page open 
+2017-05-08 15:09:33,396 INFO  [VerifyTransfer] browser maximized 
+2017-05-08 15:09:36,718 INFO  [VerifyTransfer] login into transferpage 
+2017-05-08 15:09:37,088 INFO  [VerifyTransfer] mouse over on transfer module 
+2017-05-08 15:10:41,014 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:10:49,917 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:10:51,235 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:10:54,603 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:10:54,884 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:11:40,930 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:11:54,643 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:11:56,045 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:11:57,437 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:12:41,233 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:15:14,336 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:15:22,157 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:15:23,470 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:15:26,740 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:16:11,855 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:26:02,550 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:26:35,229 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:26:54,549 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:27:22,374 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:27:45,042 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:27:57,692 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:27:59,018 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:28:02,618 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:29:09,230 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:31:38,849 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:31:49,347 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:31:50,673 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:31:54,895 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:33:14,730 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:41:40,525 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:41:54,331 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:41:55,654 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:41:59,060 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:42:55,085 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:43:08,744 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:43:10,152 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:43:13,987 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:47:37,222 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:47:47,202 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:47:48,582 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:47:52,460 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:49:32,599 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:51:08,482 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:51:30,612 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:51:31,947 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:51:37,669 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:52:03,419 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:53:11,381 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:53:32,822 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:53:34,237 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:53:39,644 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:55:37,816 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 15:55:58,303 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 15:55:59,627 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 15:56:03,498 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 15:57:56,370 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-08 15:58:44,429 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 16:00:36,096 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 16:00:47,368 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 16:01:11,061 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 16:01:12,399 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 16:01:25,868 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 16:02:49,332 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-08 16:03:08,473 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-08 16:03:09,839 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-08 16:03:15,842 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-08 16:05:04,642 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-10 12:42:32,724 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-10 12:42:59,102 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-10 12:43:00,780 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-10 12:43:07,872 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-10 12:43:08,692 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-10 12:45:20,029 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-10 12:45:37,385 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-10 12:45:38,739 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-10 12:45:45,977 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-10 12:45:46,386 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-10 12:47:31,239 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-10 12:47:44,815 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-10 12:47:46,231 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-10 12:47:50,506 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-10 12:47:50,994 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-10 12:49:10,505 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-10 12:49:34,175 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-10 12:49:35,557 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-10 12:49:40,324 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-10 12:50:24,975 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-10 12:55:47,026 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-10 12:55:57,867 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-10 12:55:59,397 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-10 12:56:04,534 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-10 15:37:45,585 INFO  [VerifyGetAccount] browser launched 
+2017-05-10 15:37:45,588 INFO  [VerifyGetAccount] browser launched 
+2017-05-10 15:38:09,506 INFO  [VerifyGetAccount] navigate to the url 
+2017-05-10 15:38:10,952 INFO  [VerifyGetAccount] browser maximized 
+2017-05-10 15:38:11,072 INFO  [VerifyGetAccount] click on get account today link 
+2017-05-10 15:38:14,511 INFO  [VerifyGetAccount] browser closed 
+2017-05-10 15:38:21,136 INFO  [VerifyGetAccount] navigate to the url 
+2017-05-10 15:38:22,555 INFO  [VerifyGetAccount] browser maximized 
+2017-05-10 15:38:22,659 INFO  [VerifyGetAccount] click on get account today link 
+2017-05-10 15:38:23,655 INFO  [VerifyGetAccount] browser closed 
+2017-05-10 15:39:27,613 INFO  [VerifyGetAccount] browser launched 
+2017-05-10 15:39:50,875 INFO  [VerifyGetAccount] navigate to the url 
+2017-05-10 15:39:52,338 INFO  [VerifyGetAccount] browser maximized 
+2017-05-10 15:39:52,432 INFO  [VerifyGetAccount] click on get account today link 
+2017-05-10 15:39:53,613 INFO  [VerifyGetAccount] browser closed 
+2017-05-10 15:40:57,025 INFO  [VerifyGetAccount] browser launched 
+2017-05-10 15:42:17,444 INFO  [VerifyGetAccount] navigate to the url 
+2017-05-10 15:42:34,274 INFO  [VerifyGetAccount] browser launched 
+2017-05-10 15:43:03,657 INFO  [VerifyGetAccount] navigate to the url 
+2017-05-10 15:43:05,093 INFO  [VerifyGetAccount] browser maximized 
+2017-05-10 15:43:07,132 INFO  [VerifyGetAccount] click on get account today link 
+2017-05-10 15:43:08,322 INFO  [VerifyGetAccount] browser closed 
+2017-05-10 15:44:33,075 INFO  [VerifyGetAccount] browser launched 
+2017-05-10 15:45:26,724 INFO  [VerifyGetAccount] navigate to the url 
+2017-05-10 15:45:28,024 INFO  [VerifyGetAccount] browser maximized 
+2017-05-10 15:45:29,711 INFO  [VerifyGetAccount] click on get account today link 
+2017-05-10 15:45:30,444 INFO  [VerifyGetAccount] browser closed 
+2017-05-10 19:13:39,127 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-10 19:14:00,139 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-10 19:14:01,477 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-10 19:14:10,973 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-10 19:14:53,745 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-10 19:15:58,355 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-10 19:16:09,327 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-10 19:16:10,643 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-10 19:16:14,797 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-10 19:17:05,181 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-12 22:28:13,699 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-12 22:28:17,740 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-12 22:28:19,171 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-12 22:28:21,109 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-12 22:29:02,571 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-12 22:38:32,537 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-12 22:38:35,931 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-12 22:38:37,401 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-12 22:38:39,786 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-12 22:39:19,024 INFO  [VerifyTransferToOtherBank] browser closed 
+2017-05-12 22:41:38,342 INFO  [VerifyTransferToOtherBank] browser launched 
+2017-05-12 22:41:41,911 INFO  [VerifyTransferToOtherBank] customer login page open 
+2017-05-12 22:41:43,484 INFO  [VerifyTransferToOtherBank] browser maximized 
+2017-05-12 22:41:45,928 INFO  [VerifyTransferToOtherBank] login into transferpage 
+2017-05-12 22:46:38,652 INFO  [VerifyTransferToOtherBank] browser closed 

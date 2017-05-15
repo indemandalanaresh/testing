@@ -1,0 +1,37 @@
+package com.cpsbank.tests;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+
+public class VerifyDropdown {
+
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\jaya lakshimi\\Desktop\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("http://www.thelogicgrid.in/Banking/");
+		driver.manage().window().maximize();
+		WebElement ele=driver.findElement(By.className("dropdown-toggle")); 
+		//List<WebElement>list=	driver.findElements(By.xpath(".//*[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li"));
+		Actions action=new Actions(driver);
+		action.moveToElement(ele).build().perform();
+		List<WebElement>list=	ele.findElements(By.xpath(".//*[@id='bs-example-navbar-collapse-1']/ul/li/ul/li"));
+		
+		//Select sel=new Select(ele);
+		//List<WebElement>list=ele.findElements(By.tagName("option"));
+		for (WebElement web : list) {
+		System.out.println(web.getText());
+		}	
+		}
+		
+		
+		
+		
+
+	}
+
+

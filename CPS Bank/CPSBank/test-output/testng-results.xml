@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="306239" started-at="2017-05-12T17:11:32Z" finished-at="2017-05-12T17:16:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="306239" started-at="2017-05-12T17:11:32Z" finished-at="2017-05-12T17:16:38Z">
+      <class name="com.cpsbank.tests.VerifyQuickTransfer">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.cpsbank.tests.VerifyQuickTransfer@8bd1b6a]" name="openBrowser" is-config="true" duration-ms="13440" started-at="2017-05-12T22:41:32Z" finished-at="2017-05-12T22:41:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="quickTransfer()[pri:0, instance:com.cpsbank.tests.VerifyQuickTransfer@8bd1b6a]" name="quickTransfer" duration-ms="292373" started-at="2017-05-12T22:41:45Z" finished-at="2017-05-12T22:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quickTransfer -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.cpsbank.tests.VerifyQuickTransfer@8bd1b6a]" name="closeBrowser" is-config="true" duration-ms="339" started-at="2017-05-12T22:46:38Z" finished-at="2017-05-12T22:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.cpsbank.tests.VerifyQuickTransfer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

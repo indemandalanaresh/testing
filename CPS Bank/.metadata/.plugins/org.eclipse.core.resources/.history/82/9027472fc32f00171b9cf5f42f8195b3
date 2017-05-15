@@ -1,0 +1,41 @@
+package com.cpsbank.tests;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class Excel {
+	FileInputStream file;
+	int rowc;
+	Row r;
+
+	XSSFWorkbook wbo;
+	XSSFSheet wso;
+	public void excelSheet(String path,String shname) throws Exception{
+	 file=new FileInputStream(path);
+	wbo=new XSSFWorkbook(file);
+	wso=wbo.getSheet(shname);
+	 rowc=wso.getLastRowNum();
+	
+	 for (int i = 1; i <rowc; i++) {
+		 r=wso.getRow(i);
+		 System.out.println(r.getCell(0).getStringCellValue());
+		 
+		 y=r.getCell(1).getStringCellValue();
+		 z=r.getCell(2).getStringCellValue();
+		 s=r.getCell(3).getStringCellValue();
+		 		 System.out.println(x  );
+	
+	}
+	
+
+}
+	public static void main(String[] args) throws Exception {
+		Excel ex=new Excel();
+		ex.excelSheet("C:\\Users\\jaya lakshimi\\Desktop\\customer.xlsx","Quick Transfer");		
+	}
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24125" started-at="2017-05-14T11:46:50Z" finished-at="2017-05-14T11:47:15Z">
+    <groups>
+      <group name="regression">
+        <method signature="Testng.customerLogin()[pri:2, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="customerLogin" class="com.nareshmaven.example.Testng"/>
+        <method signature="Testng.Transfer()[pri:4, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="Transfer" class="com.nareshmaven.example.Testng"/>
+        <method signature="Testng.changePassword()[pri:3, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="changePassword" class="com.nareshmaven.example.Testng"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Testng.customerLogin()[pri:2, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="customerLogin" class="com.nareshmaven.example.Testng"/>
+        <method signature="Testng.login()[pri:1, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="login" class="com.nareshmaven.example.Testng"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="24125" started-at="2017-05-14T11:46:50Z" finished-at="2017-05-14T11:47:15Z">
+      <class name="com.nareshmaven.example.Testng">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="open" is-config="true" duration-ms="14549" started-at="2017-05-14T17:16:50Z" finished-at="2017-05-14T17:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="login" duration-ms="1751" started-at="2017-05-14T17:17:05Z" finished-at="2017-05-14T17:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="customerLogin()[pri:2, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="customerLogin" duration-ms="2313" started-at="2017-05-14T17:17:07Z" finished-at="2017-05-14T17:17:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLogin -->
+        <test-method status="PASS" signature="changePassword()[pri:3, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="changePassword" duration-ms="2674" started-at="2017-05-14T17:17:09Z" depends-on-methods="com.nareshmaven.example.Testng.customerLogin" finished-at="2017-05-14T17:17:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+        <test-method status="FAIL" signature="Transfer()[pri:4, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="Transfer" duration-ms="1591" started-at="2017-05-14T17:17:12Z" depends-on-methods="com.nareshmaven.example.Testng.customerLogin" finished-at="2017-05-14T17:17:13Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [6] but found [4]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [6] but found [4]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at com.nareshmaven.example.Testng.Transfer(Testng.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transfer -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.nareshmaven.example.Testng@3e6fa38a]" name="close" is-config="true" duration-ms="1101" started-at="2017-05-14T17:17:13Z" finished-at="2017-05-14T17:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.nareshmaven.example.Testng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

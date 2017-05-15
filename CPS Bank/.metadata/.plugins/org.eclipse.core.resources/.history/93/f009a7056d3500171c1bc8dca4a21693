@@ -1,0 +1,16 @@
+package com.cpsbank.results;
+
+import org.testng.ITestResult;
+import org.testng.TestListenerAdapter;
+
+public class TestngListner extends TestListenerAdapter {
+	
+	public void onTestFailure(ITestResult tr){
+	System.out.println(tr.getName());
+		
+	}
+	public void onTestPass(ITestResult tr){
+		System.out.println(tr.getName());
+	}
+
+}

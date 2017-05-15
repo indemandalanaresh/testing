@@ -1,0 +1,47 @@
+package com.cpsbank.results;
+
+import java.io.FileInputStream;
+import java.util.Properties;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+public class Testng {
+	
+	public static WebDriver driver;
+	@BeforeTest
+	public void open(){
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\jaya lakshimi\\Desktop\\chromedriver.exe");
+		driver=new ChromeDriver();
+		
+
+		driver.get("http://www.thelogicgrid.in/Banking");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
+		
+	}
+	@Test(priority=1,groups={"regression"})
+	public void login(){
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\jaya lakshimi\\Desktop\\chromedriver.exe");
+		driver=new ChromeDriver();
+		
+		file=new FileInputStream("CPSBank/src/properties/test.properties");
+		pr=new Properties();
+		pr.load(file);
+		DOMConfigurator.configure("log4j.xml");
+		log.info("browser launched");	
+
+		driver.get("http://www.thelogicgrid.in/Banking");
+		log.info("customer login page open");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
+		log.info("browser maximized");
+		
+	}
+	
+
+}

@@ -1,0 +1,173 @@
+package com.cpsbank.results;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.util.List;
+import java.util.Properties;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import com.cpsbank.tests.Customerlogin;
+import com.cpsbank.utils.Excel;
+
+public class Testng {
+	
+	public static WebDriver driver;
+	@BeforeTest
+	public void open(){
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\jaya lakshimi\\Desktop\\chromedriver.exe");
+		driver=new ChromeDriver();
+		
+
+		driver.get("http://www.thelogicgrid.in/Banking");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
+		
+	}
+	@Test(priority=1,groups={"regression"})
+	public void login(){
+
+		driver.findElement(By.xpath("login")).click();
+		String expected="Peace | Insurance Responsive Template";
+		String actual=driver.getTitle();
+		Assert.assertEquals(actual, expected);
+		
+		
+	}
+	
+@Test(priority=2,groups={"regression"},dependsOnMethods={"login"})
+public void customerLogin(){
+	Customerlogin login=new Customerlogin();
+	login.login(driver,"Naresh-Qa","password");
+	String actual=driver.findElement(By.xpath(".//*[@id='tp-career-form']/div/div/div[2]/h2[1]")).getText();
+	Assert.assertEquals(actual,"Succesfully Logged In");
+
+	
+}
+@Test(priority=3,groups={"regression"},dependsOnMethods={"customerLogin,login"})
+public void changePassword(){
+	driver.findElement(By.xpath(".//*[@id='tp-header']/div/div/div[2]/a[1]")).click();
+	driver.findElement(By.xpath(".//*[@id='oldPassword']")).sendKeys("password");
+	driver.findElement(By.xpath(".//*[text()='Confirm Old Password']//following::input[1]")).sendKeys("password");
+	driver.findElement(By.xpath(".//*[@id='amount']")).sendKeys("password");
+     driver.findElement(By.xpath(".//*[@type='submit']")).click();
+    String actuval=driver.findElement(By.xpath("//*[@id='tp-career-form']/div/div/div[2]/h2[1]")).getText();
+    Assert.assertEquals(actuval,"Successfully Changed Your Password");
+}
+@Test(priority=4,groups={"regression"},dependsOnMethods={"customerLogin"})
+public void Transfer(){
+	WebElement transfer=driver.findElement(By.xpath(".//*[text()='TRANSFER']"));
+	Actions action=new Actions(driver);
+	action.moveToElement(transfer).build().perform();
+	String x=".//*[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[";
+	String y="]/a";
+	List<WebElement> list=driver.findElements(By.xpath(".//*[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li"));
+	int actuval =list.size();
+	for (int i = 1; i <=list.size(); i++) {
+		transfer=driver.findElement(By.xpath(x+i+y));
+		action.moveToElement(transfer).build().perform();	
+		System.out.println(transfer.getText());
+	}
+	Assert.assertEquals(actuval,"6");
+}
+@Test(priority=5,groups={"regression"},dependsOnMethods={"customerLogin"})
+public void quickTransfer() throws Exception{
+	Excel ex=new Excel();
+	ex.excelSheet(".\\reports\\customer.xlsx","Quick Transfer");
+
+	for (int i = 1; i <ex.rowc; i++) {
+
+		WebElement element=driver.findElement(By.xpath(".//*[@id='bs-example-navbar-collapse-1']/ul/li[2]/a"));
+		Actions action=new Actions(driver);
+		action.moveToElement(element).build().perform();
+		element=driver.findElement(By.xpath(".//*[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[1]/a"));
+		action.moveToElement(element).click().build().perform();
+
+		driver.findElement(By.id("accountNumber")).sendKeys(ex.wso.getRow(i).getCell(0).getStringCellValue());
+		driver.findElement(By.id("IFSC")).sendKeys(ex.wso.getRow(i).getCell(1).getStringCellValue());
+		driver.findElement(By.xpath(".//*[@id='tp-career-form']/div/div/div[3]/form/div[3]/label/label/input[1]")).click();
+		Thread.sleep(5000);
+		//	JavascriptExecutor je=(JavascriptExecutor)driver;
+		//je.executeScript("scroll(0,400)");
+		driver.findElement(By.xpath(".//*[@id='amount']")).sendKeys(ex.wso.getRow(i).getCell(2).getStringCellValue());
+		driver.findElement(By.xpath(".//*[@id='tp-career-form']/div/div/div[3]/form/div[5]/button")).click();
+		String x=driver.findElement(By.xpath(".//*[@id='tp-career-form']/div/div/div[2]/p")).getText();
+
+		if (x.equalsIgnoreCase("Hi nareshSuccesfully transfered")) {
+			ex.wso.createRow(i).createCell(4).setCellValue("pass");
+
+			
+		}
+		else{
+			ex.wso.createRow(i).createCell(4).setCellValue("fail");
+		}
+	}
+	FileOutputStream f=new FileOutputStream(".\\test\\customer1.xlsx");
+	ex.wbo.write(f);
+	ex.wbo.close();
+}
+@Test(priority=6,groups={"regression"},dependsOnMethods={"customerLogin"})
+public void transferToOtherBank() throws Exception{
+	Excel ex=new Excel();
+	ex.excelSheet(".\\reports\\customer.xlsx","Quick Transfer");
+	
+	for (int i = 1; i <6; i++) {
+
+	
+	WebElement element=driver.findElement(By.xpath(".//*[@id='bs-example-navbar-collapse-1']/ul/li[2]/a"));
+	Actions action=new Actions(driver);
+	action.moveToElement(element).build().perform();
+	element=driver.findElement(By.xpath(".//*[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[2]/a"));
+	action.moveToElement(element).click().build().perform();
+		
+	
+	driver.findElement(By.id("accountNumber")).sendKeys(ex.wso.getRow(i).getCell(0).getStringCellValue());
+	driver.findElement(By.id("IFSC")).sendKeys(ex.wso.getRow(i).getCell(1).getStringCellValue());
+	driver.findElement(By.id("amount")).sendKeys(ex.wso.getRow(i).getCell(2).getStringCellValue());
+	Thread.sleep(5000);
+	driver.findElement(By.xpath(".//*[@type='radio'][1]")).click();
+	List<WebElement>list=driver.findElements(By.xpath(".//*[@type='checkbox']"));
+	for (WebElement check : list) {
+		check.click();
+		
+	}
+	WebElement dropdrown=driver.findElement(By.xpath(".//*[@id='bankName']"));
+	Select sel=new Select(dropdrown);
+	Thread.sleep(2000);
+	sel.selectByVisibleText(ex.wso.getRow(i).getCell(3).getStringCellValue());
+	Thread.sleep(2000);
+	driver.findElement(By.id("Comment")).sendKeys("nothing");
+	
+	driver.findElement(By.xpath(".//*[@type='submit']")).click();
+	Thread.sleep(5000);
+	String x=driver.findElement(By.xpath(".//*[@id='tp-career-form']/div/div/div[2]/p")).getText();
+	
+	if (x.equalsIgnoreCase("Hi nareshSuccesfully transfered")) {
+		ex.wso.createRow(i).createCell(4).setCellValue("pass");
+			
+		}
+		else{
+			ex.wso.createRow(i).createCell(4).setCellValue("fail");
+		}
+	}
+	FileOutputStream f=new FileOutputStream(".//test//customer.xlsx");
+	ex.wbo.write(f);
+	ex.wbo.close();
+}
+@AfterTest
+public void closeBrowser()
+{
+	driver.close();
+}
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.nareshmaven.example.TestngListner"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.nareshmaven.example.Testng">
+        <methods>
+          <include name="close"/>
+          <include name="open"/>
+          <include name="Transfer"/>
+          <include name="customerLogin"/>
+        </methods>
+      </class> <!-- com.nareshmaven.example.Testng -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
